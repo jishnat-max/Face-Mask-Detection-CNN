@@ -5,7 +5,7 @@ This project focuses on detecting whether a person is wearing a face mask or not
 
 ## Technologies Used
 - Python
-- TensorFlow / Keras
+- Keras
 - NumPy
 
 ## Model Architecture
